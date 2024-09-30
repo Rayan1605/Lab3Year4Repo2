@@ -1,5 +1,6 @@
 package com.example.secondrepoforweek3.Entity;
 
+
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
